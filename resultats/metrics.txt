@@ -1,0 +1,10 @@
+nb_total=5025
+ nb_fraudes=25
+ taux_fraude=0.498
+iso_precision=0.889
+ iso_recall=1.000
+ iso_f1=0.941
+log_precision=1.000
+ log_recall=1.000
+ log_f1=1.000
+ log_auc=1.000
