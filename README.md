@@ -37,4 +37,4 @@ python detection_fraude.py
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ---
-HAKKA Bouchra - ENSMR
+Bouchra Hakka - ENSMR
